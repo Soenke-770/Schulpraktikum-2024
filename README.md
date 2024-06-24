@@ -187,10 +187,10 @@ volumes:
 ### **Schritt 7: Installation von Nextcloud**
 
   
-Ich habe über das Netzwerk Zugriff auf "fisch" verschafft und habe dann mit dem Kommando: 
+Ich habe über das Netzwerk Zugriff auf "fisch" verschafft und habe dann mit folgendem Kommando Nextcloud über Podman installiert und gestartet.
 
 ```
 podman-compose up -d
 ```
 
-Nextcloud über Podman installiert.
+
