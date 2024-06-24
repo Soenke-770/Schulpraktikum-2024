@@ -193,4 +193,4 @@ Ich habe über das Netzwerk Zugriff auf "fisch" verschafft und habe dann mit fol
 podman-compose up -d
 ```
 
-
+![Nextcloud Startseite](nextcloud_start.png)
